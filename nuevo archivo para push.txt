@@ -1,1 +1,2 @@
 Este es un archivo para push
+añade nueva linea para pull
