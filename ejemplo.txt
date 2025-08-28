@@ -1,3 +1,5 @@
 este es un código ejemplo
 
 añadir una función nueva
+
+mi compañero añade nueva funcionalidad
